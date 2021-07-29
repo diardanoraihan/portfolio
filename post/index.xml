@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://diardanoraihan.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Deep Learning Techniques for Text Classification</title>
+      <link>https://diardanoraihan.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://diardanoraihan.github.io/portfolio/post/project-3/</guid>
+      <description>Designed experiments to evaluate 20+ deep learning models on 5 text classification datasets in Python and TensorFlow. Performed different text cleaning methods to fit the Bag-of-Words (BoW) and Word Embedding (WE) text representation. Engineered features by using different BoW scoring methods and WE modes (random, static pre-trained, and dynamic pre-trained). Optimized the feedforward, recurrent, convolutional, and ensemble-based neural networks to achieve the best model. Attained the best average accuracy by 90% using an ensemble-based model and temporal convolutional network, competing with the state-of-the-art benchmark models.</description>
+    </item>
+    
+    <item>
       <title>The Battle of Neighborhood: Starting a Coffee Shop Business</title>
       <link>https://diardanoraihan.github.io/portfolio/post/project-2/</link>
       <pubDate>Wed, 21 Oct 2020 10:58:08 -0400</pubDate>
