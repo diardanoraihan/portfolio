@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://diardanoraihan.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>E2E Deep Learning: Serverless Image Classifier</title>
+      <link>https://diardanoraihan.github.io/portfolio/post/project-4/</link>
+      <pubDate>Sun, 04 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://diardanoraihan.github.io/portfolio/post/project-4/</guid>
+      <description>Developed deep learning models to classify 10-class images in Python and TensorFlow for a clothing e-commerce business. Optimized the convolutional neural networks with transfer learning and image augmentation to achieve a good performance and prevent overfitting, leading to a 91% accuracy with 3.04% gap between the training and test accuracies. Optimized the model for deployment in mobile and edge devices using TensorFlow Lite, resulting in a 75% reduction in size for efficiency.</description>
+    </item>
+    
+    <item>
       <title>Deep Learning Techniques for Text Classification</title>
       <link>https://diardanoraihan.github.io/portfolio/post/project-3/</link>
       <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
