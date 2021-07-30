@@ -6,7 +6,16 @@
     <description>Recent content in Data Science Portfolio on Diardano Raihan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://diardanoraihan.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://diardanoraihan.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Resource Retention</title>
+      <link>https://diardanoraihan.github.io/portfolio/post/project-5/</link>
+      <pubDate>Sat, 10 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://diardanoraihan.github.io/portfolio/post/project-5/</guid>
+      <description>Developed machine learning models to predict which employees are more likely to quit. Visualized data with histogram, heatmap, boxplot, countplot, and Kernel Density Estimate using Seaborn and Matplotlib to gain insight of what makes employees want to leave or stay. Engineered features using Pandas and Scikit-Learn (one-hot encoder, data normalization) to feed the data into machine learning models. Optimized logistic regression, random forest classifier, and artificial neural network to reach the best model for such an unbalanced dataset.</description>
+    </item>
+    
     <item>
       <title>E2E Deep Learning: Serverless Image Classifier</title>
       <link>https://diardanoraihan.github.io/portfolio/post/project-4/</link>
@@ -40,7 +49,7 @@
       <pubDate>Thu, 23 Jul 2020 10:58:08 -0400</pubDate>
       
       <guid>https://diardanoraihan.github.io/portfolio/post/project-1/</guid>
-      <description>Led a 3-member team to build time series forecasting models for energy traders in 4 weeks boot camp using neural networks in Smojo. Engineered the features by using DIFF window, combined with momentum, force, and statistical attributes to help the model perform better prediction. Optimized the difference neural networks with input scaling subnet, dropout layer, and L2 regularization; achieved MAE/MSE of 0.5/0.3 using test loss while having no lag. Deployed the model and performed CI/CD using Autocaffe Labs; maximized revenue over 1-week trading by producing a net profit of 8.</description>
+      <description>Led a 3-member team to build time series forecasting models for energy traders in 4 weeks boot camp using neural networks in Smojo. Engineered the features by using DIFF window, combined with momentum, force, and statistical attributes to help the model perform better prediction. Optimized the difference neural networks with input scaling subnet, dropout layer, and L2 regularization. Achieved MAE/MSE of 0.5/0.3 using test loss while having no lag. Deployed the model and performed CI/CD using Autocaffe Labs.</description>
     </item>
     
     <item>
