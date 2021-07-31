@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Diardano Raihan</title>
-    <link>https://www.ngebuat.com/post/</link>
+    <link>https://www.diardano.com/post/</link>
     <description>Recent content in Projects on Diardano Raihan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://www.ngebuat.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://www.diardano.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customer Market Segmentation</title>
-      <link>https://www.ngebuat.com/post/project-6/</link>
+      <link>https://www.diardano.com/post/project-6/</link>
       <pubDate>Sat, 10 Jul 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://www.ngebuat.com/post/project-6/</guid>
+      <guid>https://www.diardano.com/post/project-6/</guid>
       <description>Developed machine learning models to predict which employees are more likely to quit. Performed exploratory data analysis and visualized employees dataset using histogram, heatmap, boxplot, countplot, and Kernel Density Estimate (KDE) with Seaborn and Matplotlib to gain insight of what makes employees want to leave or stay. Engineered features using Pandas and Scikit-Learn (one-hot encoder, data normalization) to feed the data into machine learning models. Optimized logistic regression, random forest classifier, and artificial neural network to reach the best model for such an unbalanced dataset.</description>
     </item>
     
     <item>
       <title>Human Resource Retention</title>
-      <link>https://www.ngebuat.com/post/project-5/</link>
+      <link>https://www.diardano.com/post/project-5/</link>
       <pubDate>Sat, 10 Jul 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://www.ngebuat.com/post/project-5/</guid>
+      <guid>https://www.diardano.com/post/project-5/</guid>
       <description>Developed machine learning models to predict which employees are more likely to quit. Performed exploratory data analysis and visualized employees dataset using histogram, heatmap, boxplot, countplot, and Kernel Density Estimate (KDE) with Seaborn and Matplotlib to gain insight of what makes employees want to leave or stay. Engineered features using Pandas and Scikit-Learn (one-hot encoder, data normalization) to feed the data into machine learning models. Optimized logistic regression, random forest classifier, and artificial neural network to reach the best model for such an unbalanced dataset.</description>
     </item>
     
     <item>
       <title>E2E Deep Learning: Serverless Image Classifier</title>
-      <link>https://www.ngebuat.com/post/project-4/</link>
+      <link>https://www.diardano.com/post/project-4/</link>
       <pubDate>Sun, 04 Jul 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://www.ngebuat.com/post/project-4/</guid>
+      <guid>https://www.diardano.com/post/project-4/</guid>
       <description>Developed deep learning models to classify 10-class images in Python and TensorFlow for a clothing e-commerce business. Optimized the convolutional neural networks with transfer learning and image augmentation to achieve a good performance and prevent overfitting, leading to a 91% accuracy with 3.04% gap between the training and test accuracies. Optimized the model for deployment in mobile and edge devices using TensorFlow Lite, resulting in a 75% reduction in size for efficiency.</description>
     </item>
     
     <item>
       <title>Deep Learning Techniques for Text Classification</title>
-      <link>https://www.ngebuat.com/post/project-3/</link>
+      <link>https://www.diardano.com/post/project-3/</link>
       <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://www.ngebuat.com/post/project-3/</guid>
+      <guid>https://www.diardano.com/post/project-3/</guid>
       <description>Designed experiments to evaluate 20+ deep learning models on 5 text classification datasets in Python and TensorFlow. Performed different text cleaning methods to fit the Bag-of-Words (BoW) and Word Embedding (WE) text representation. Engineered features by using different BoW scoring methods and WE modes (random, static pre-trained, and dynamic pre-trained). Optimized the feedforward, recurrent, convolutional, and ensemble-based neural networks to achieve the best model. Attained the best average accuracy by 90% using an ensemble-based model and temporal convolutional network, competing with the state-of-the-art benchmark models.</description>
     </item>
     
     <item>
       <title>The Battle of Neighborhood: Starting a Coffee Shop Business</title>
-      <link>https://www.ngebuat.com/post/project-2/</link>
+      <link>https://www.diardano.com/post/project-2/</link>
       <pubDate>Wed, 21 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://www.ngebuat.com/post/project-2/</guid>
+      <guid>https://www.diardano.com/post/project-2/</guid>
       <description>Built a k-means clustering model in Python and Scikit-Learn to find the best location for starting a coffe shop business in Toronto city. Scrapped over 100 Toronto postal codes and 10 boroughs from Wikipedia using Python and Beautiful Soup; transformed it into a Pandas dataframe. Defined neighborhoods based on their postal codes and retrieved the coordinate (latitude and longitude) for each using Geocoder module. Analyzed the pedestrian and vehicle volumes from the Toronto Open Data; visualized it using Folium, leading to 139 lively / busiest roads.</description>
     </item>
     
     <item>
       <title>Wind Energy Forecasting Model based on Deep Learning</title>
-      <link>https://www.ngebuat.com/post/project-1/</link>
+      <link>https://www.diardano.com/post/project-1/</link>
       <pubDate>Thu, 23 Jul 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://www.ngebuat.com/post/project-1/</guid>
+      <guid>https://www.diardano.com/post/project-1/</guid>
       <description>Led a 3-member team to build time series forecasting models for energy traders in 4 weeks boot camp using neural networks in Smojo. Engineered the features by using DIFF window, combined with momentum, force, and statistical attributes to help the model perform better prediction. Optimized the difference neural networks with input scaling subnet, dropout layer, and L2 regularization. Achieved MAE/MSE of 0.5/0.3 using test loss while having no lag. Deployed the model and performed CI/CD using Autocaffe Labs.</description>
     </item>
     
