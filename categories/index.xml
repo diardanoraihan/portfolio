@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Diardano Raihan</title>
-    <link>https://diardanoraihan.github.io/portfolio/categories/</link>
+    <link>https://www.ngebuat.com/categories/</link>
     <description>Recent content in Categories on Diardano Raihan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://diardanoraihan.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.ngebuat.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
